@@ -1,0 +1,27 @@
+/* 1-) Calcule as especificidades */
+
+.style-me {
+  color: purple;
+  text-decoration: underline;
+} /* Especificidade: ? */
+
+p.style-me {
+  color: yellow;
+} /* Especificidade: ? */
+
+.box .inner-box p {
+  color: purple;
+  text-align: center;
+} /* Especificidade: ? */
+
+#specific {
+  color: red;
+  text-align: center;
+} /* Especificidade: ? */
+
+
+p.very-specific.wow.such-specific {
+  color: yellow;
+} /* Especificidade: ? */
+
+/* 2-) Apenas mexendo no HTML, deixe o texto amarelo e depois roxo */

@@ -1,0 +1,96 @@
+#gbar,
+#guser {
+	font-size: 13px;
+}
+
+#guser {
+	text-align: right
+}
+
+.gbh,
+.gbd {
+	border-top: 1px solid #c9d7f1;
+	font-size: 1px
+}
+
+body,
+td,
+a,
+p,
+.h {
+	font-family: arial, sans-serif
+}
+
+body {
+	margin: 0;
+	overflow-y: scroll
+}
+
+.h {
+	color: #1558d6
+}
+
+em {
+	font-weight: bold;
+	font-style: normal
+}
+
+.lst {
+	height: 25px;
+	width: 496px
+}
+
+.gsfi,
+.lst {
+	font: 18px arial, sans-serif
+}
+
+.gsfs {
+	font: 17px arial, sans-serif
+}
+
+input {
+	font-family: inherit
+}
+
+body {
+	background: #fff;
+	color: #000
+}
+
+a {
+	color: #4b11a8;
+	text-decoration: none
+}
+
+a:hover,
+a:active {
+	text-decoration: underline
+}
+
+.fl a {
+	color: #1558d6
+}
+
+a:visited {
+	color: #4b11a8
+}
+
+.lsbb {
+	background: #f8f9fa;
+	border: solid 1px;
+	border-color: #dadce0 #70757a #70757a #dadce0;
+	height: 30px
+}
+
+.lsbb {
+	display: block
+}
+
+.lsb:active {
+	background: #dadce0
+}
+
+.lst:focus {
+	outline: none
+}

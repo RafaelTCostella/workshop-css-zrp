@@ -1,0 +1,7 @@
+.style-me {
+  font-weight: bold;
+  color: red; /* sobreposto no style2 */
+  invalid-property: some-nothing; /* linha 100% inválida */
+  borderr: solid 1px purple; /* linha 100% inválida */
+  border: solid 1px purple; /* linha 100% válida */
+} /* Especificidade: ? */
